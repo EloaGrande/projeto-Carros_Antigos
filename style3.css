@@ -2,24 +2,6 @@ body {
     background-color:rgb(18, 18, 53);
     padding: 50px;
 }
-.background-glow {
-    position: absolute;
-    inset: 0;
-    z-index: -1;
-
-    background-color: rgb(18, 18, 53);
-    background-image: radial-gradient(
-    circle at center,
-    #000000, 
-    transparent 70%);
-    background-repeat: no-repeat;
-    filter: blur(60px);
-}
-
-.container {
-    position: relative;
-    z-index: 1;
-}
 
 .header h1 {
     color: aliceblue;
