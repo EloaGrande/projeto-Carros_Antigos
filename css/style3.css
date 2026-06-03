@@ -1,0 +1,100 @@
+body {
+    background-color:rgb(189, 189, 212);
+    padding: 50px;
+    text-align: center;
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header h1 {
+    color: rgb(23, 2, 49);
+    font-size: 30px;
+    text-align: center;
+}
+
+.header img {
+    max-width: 500px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 30px rgba(11, 2, 44, 0.767);
+    margin: 50px;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    background-color: rgb(166, 166, 202);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 30px rgba(11, 2, 44, 0.767);
+}
+.content:hover {
+    background-color: #897eb3c9;
+    transition: 0.3s;
+}
+
+.article {
+    text-align: center;
+    margin: auto;
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow:-10px 10px 50px #191e3d81;
+}
+
+.article p {
+    color:rgb(2, 2, 32);
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+    text-shadow: -2px 2px 30px #6971a4;
+
+}
+
+.links {
+    background-color:  rgb(166, 166, 202);
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 30px rgba(11, 2, 44, 0.767);
+}
+
+.links:hover {
+    background-color: #897eb3c9;
+    transition: 0.3s;
+}
+
+.links iframe {
+    margin-top: 40px;
+    width: 500px;
+    height: 400px;
+    border: #6971a4;
+    border-radius: 5px;
+    box-shadow: 5px 5px 30px rgba(8, 2, 31, 0.767);
+}
+
+.links p {
+    font-size: 17px;
+    color: rgb(10, 5, 58);
+    margin: 20px;
+}
+
+.links a {
+    text-decoration: none;
+}
+
+.p1 {
+    padding: 10px;
+}
+
+.p2 {
+    padding: 10px;
+}
+
+.p1:hover p {
+    color: rgb(74, 79, 107);
+    transition: 0.3s;
+}
+
+.p2:hover p {
+    color: rgb(74, 79, 107);
+    transition: 0.3s;
+}

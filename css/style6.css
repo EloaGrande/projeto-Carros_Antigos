@@ -1,0 +1,93 @@
+body {
+    padding: 30px;
+    background-color: rgb(94, 13, 13);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+}
+
+.container {
+    box-shadow: 1px 1px 50px 20px rgb(75, 9, 9);
+    border: solid;
+    border-color: rgb(75, 9, 9);
+    border-radius: 30px;
+}
+
+.container h1 {
+    color: rgba(231, 139, 139, 0.603);
+    text-align: center;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.603);
+    height: 50px;
+    margin-top: auto;
+    padding: 20px;
+}
+
+.content {
+    justify-content: space-around;
+    background: radial-gradient(circle, #1a0101 0%, rgb(94, 13, 13) 70%);
+    
+}
+
+.content img {
+    border-radius: 10px;
+    border-spacing: 0px ;
+    width: 50%;
+    height: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 2px 2px 30px 20px rgba(0, 0, 0, 0.466);
+}
+
+.alinhamento {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.conteudo {
+    display: flex;
+    width: 50%;
+    margin: 40px;    
+    border-radius: 5px;
+    background-color: rgba(240, 197, 197, 0.466);
+    background: radial-gradient();
+}
+
+.conteudo p {
+    padding: 20px;
+    text-align: center;
+    color: rgb(37, 0, 0);
+    font-size: medium;
+}
+
+.links p {
+    text-align: center;
+    font-size: small;
+}
+
+.links iframe {
+    width: 400px;
+    height: 300px;
+    border: none;
+    border-radius: 5px;
+   
+}
+
+.voltar a {
+    text-decoration: none;
+}
+
+.voltar p {
+    color: black;
+    background-color: rgba(231, 139, 139, 0.603);
+    padding: 10px;
+    margin-left: 10px;
+    max-width: 60px;
+    border-radius: 5px;
+
+}
+
+.voltar:hover p {
+    background-color: rgba(158, 85, 85, 0.603);
+}
