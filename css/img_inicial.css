@@ -1,0 +1,19 @@
+img { 
+    margin: auto;
+    display: flex;
+    height: 500px;
+    width: 50%;
+    border: 5px solid;
+    border-color: rgb(47, 61, 73);
+    border-radius: 20px;
+    margin-top: 40px;
+    box-shadow: 5px 5px
+     15px 0.9px black;
+}
+
+img:hover {
+    box-shadow: 3px 3px 50px 15px black;
+    background-color: black;
+    z-index: 10;
+    transition-duration: 0.3s;
+} 

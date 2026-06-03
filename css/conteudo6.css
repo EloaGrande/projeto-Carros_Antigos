@@ -1,0 +1,15 @@
+.conteudo {
+    display: flex;
+    width: 50%;
+    margin: 40px;    
+    border-radius: 5px;
+    background-color: rgba(240, 197, 197, 0.466);
+    background: radial-gradient();
+}
+
+.conteudo p {
+    padding: 20px;
+    text-align: center;
+    color: rgb(37, 0, 0);
+    font-size: medium;
+}

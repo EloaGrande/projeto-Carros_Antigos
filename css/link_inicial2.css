@@ -1,0 +1,26 @@
+.link2 {
+    max-width: 500px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.link2 a {
+    text-decoration: none;
+}
+
+.link2 h2 {
+    font-style: normal;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(164, 179, 192);
+    border-radius: 40px;
+    border: solid;
+    border-width: 2px;
+    border-color: rgb(135, 149, 161);
+    padding: 10px;
+}
+
+.link2:hover h2 {
+    background-color: rgb(64, 82, 97);
+    transition-duration: 0.3s;
+}

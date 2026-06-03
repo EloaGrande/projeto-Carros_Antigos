@@ -1,0 +1,23 @@
+.links {
+    background-color:  rgb(209, 163, 163);
+    padding: 40px;
+    margin: 20px;
+    box-shadow: 2px 2px 90px 20px rgb(209, 163, 163);
+    border-radius: 5px;
+}
+
+.links:hover {
+     box-shadow: 2px 2px 40px 20px rgb(90, 65, 65);
+}
+
+.links a {
+    text-decoration: none;
+    color: rgba(61, 20, 20, 0.938) ;
+
+}
+
+.links iframe {
+    border-radius: 10px;
+    border-color: rgb(209, 163, 163);
+    box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.747);
+}

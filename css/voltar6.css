@@ -1,0 +1,17 @@
+.voltar a {
+    text-decoration: none;
+}
+
+.voltar p {
+    color: black;
+    background-color: rgba(231, 139, 139, 0.603);
+    padding: 10px;
+    margin-left: 10px;
+    max-width: 60px;
+    border-radius: 5px;
+
+}
+
+.voltar:hover p {
+    background-color: rgba(158, 85, 85, 0.603);
+}

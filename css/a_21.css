@@ -1,0 +1,14 @@
+.a_2 {
+    background-color: rgb(165, 127, 190);
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.a_2 p{
+    font-size: 20px;
+}
+
+.a_2:hover p {
+    color: rgb(200, 180, 216);
+    transition-duration: 0.3s;
+}

@@ -1,0 +1,7 @@
+body {
+    background-color:rgb(189, 189, 212);
+    padding: 50px;
+    text-align: center;
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+}

@@ -1,0 +1,16 @@
+.content {
+    justify-content: space-around;
+    background: radial-gradient(circle, #1a0101 0%, rgb(94, 13, 13) 70%);
+    
+}
+
+.content img {
+    border-radius: 10px;
+    border-spacing: 0px ;
+    width: 50%;
+    height: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 2px 2px 30px 20px rgba(0, 0, 0, 0.466);
+}

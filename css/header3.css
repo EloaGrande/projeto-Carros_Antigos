@@ -1,0 +1,13 @@
+.header h1 {
+    color: rgb(23, 2, 49);
+    font-size: 30px;
+    text-align: center;
+}
+
+.header img {
+    max-width: 500px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 30px rgba(11, 2, 44, 0.767);
+    margin: 50px;
+}

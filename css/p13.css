@@ -1,0 +1,8 @@
+.p1 {
+    padding: 10px;
+}
+
+.p1:hover p {
+    color: rgb(74, 79, 107);
+    transition: 0.3s;
+}

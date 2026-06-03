@@ -1,0 +1,7 @@
+.p2 a {
+    text-decoration: none;
+}
+
+.p2:hover p {
+    color: rgb(105, 140, 150);
+}

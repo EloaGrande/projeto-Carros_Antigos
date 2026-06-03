@@ -1,0 +1,19 @@
+.corpo {
+    padding: 15px;
+}
+
+.corpo h1 {
+    padding: 20px;
+    color: rgb(36, 2, 2);
+}
+
+.corpo img {
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 20px rgb(160, 131, 131);
+}
+
+.corpo p {
+    font-size: 18px;
+    color: rgba(59, 24, 24, 0.856);
+}

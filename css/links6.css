@@ -1,0 +1,12 @@
+.links p {
+    text-align: center;
+    font-size: small;
+}
+
+.links iframe {
+    width: 400px;
+    height: 300px;
+    border: none;
+    border-radius: 5px;
+   
+}

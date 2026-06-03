@@ -1,0 +1,12 @@
+.corpo h1 {
+    color: rgb(43, 57, 61);
+    padding: 10px;
+}
+
+.corpo img {
+    border-radius: 5px;
+    box-shadow: 2px 2px 40px 10px rgb(105, 140, 150);
+    margin: 20px;
+    width: 350px;
+    height:220px;
+}

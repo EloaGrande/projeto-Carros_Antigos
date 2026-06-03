@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(233, 214, 241);
+    padding: 30px;
+    display: flex;
+    text-align: center;
+}
+
+.container {
+    background: rgb(181, 156, 202);
+    padding: 20px;
+    border-radius: 20px 5px;
+    box-shadow: 5px 5px 30px 30px rgb(181, 156, 202);
+}
+
+.content {
+    background-color: rgb(146, 102, 165);
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 40px 20px rgb(146, 102, 165);
+}
+
+.content img {
+    border-radius: 5px;
+    box-shadow: 2px 2px 20px rgb(76, 52, 85);
+}
+
+.content article {
+    font-size: 20px;
+}
+
+.links iframe {
+    border-radius: 10px;
+    box-shadow: 2px 2px 20px rgb(57, 43, 63);
+    border: none;
+}
+
+.links a {
+    text-decoration: none;
+    color: black;
+    margin: 0.1px;
+}
+
+.a_1, .a_2 {
+    background-color: rgb(165, 127, 190);
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.a_1, .a_2 p{
+    font-size: 20px;
+}
+
+.a_1:hover p, .a_2:hover p {
+    color: rgb(200, 180, 216);
+    transition-duration: 0.3s;
+}
+
+

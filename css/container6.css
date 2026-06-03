@@ -1,0 +1,16 @@
+.container {
+    box-shadow: 1px 1px 50px 20px rgb(75, 9, 9);
+    border: solid;
+    border-color: rgb(75, 9, 9);
+    border-radius: 30px;
+}
+
+.container h1 {
+    color: rgba(231, 139, 139, 0.603);
+    text-align: center;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.603);
+    height: 50px;
+    margin-top: auto;
+    padding: 20px;
+}

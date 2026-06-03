@@ -1,0 +1,15 @@
+.content {
+    background-color: rgb(146, 102, 165);
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 40px 20px rgb(146, 102, 165);
+}
+
+.content img {
+    border-radius: 5px;
+    box-shadow: 2px 2px 20px rgb(76, 52, 85);
+}
+
+.content article {
+    font-size: 20px;
+}

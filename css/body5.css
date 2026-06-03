@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(208, 238, 247);
+    display: flex;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}

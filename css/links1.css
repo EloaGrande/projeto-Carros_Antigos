@@ -1,0 +1,11 @@
+.links iframe {
+    border-radius: 10px;
+    box-shadow: 2px 2px 20px rgb(57, 43, 63);
+    border: none;
+}
+
+.links a {
+    text-decoration: none;
+    color: black;
+    margin: 0.1px;
+}

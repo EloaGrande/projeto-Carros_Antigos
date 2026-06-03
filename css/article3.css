@@ -1,0 +1,15 @@
+.article {
+    text-align: center;
+    margin: auto;
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow:-10px 10px 50px #191e3d81;
+}
+
+.article p {
+    color:rgb(2, 2, 32);
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+    text-shadow: -2px 2px 30px #6971a4;
+
+}
